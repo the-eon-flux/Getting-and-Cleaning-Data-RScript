@@ -25,15 +25,19 @@ Contents of this repository are as follows :
 
 #### Dataset to be transformed 
 
+**Human Activity Recognition Using Smartphones Dataset _Version 1.0_**
 
-##### Human Activity Recognition Using Smartphones Dataset
-_Version 1.0_
 ***
 
-The experiments have been carried out with a group of __30 volunteers__ within an age bracket of 19-48 years. Each person performed __six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)__ wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been __randomly partitioned into two sets__, where __70% of the volunteers__ was selected for generating the __training data__ and __30% the test data__.
+-  The experiments have been carried out with a group of __30 volunteers__ within an age bracket of 19-48 years. 
+-  Each person performed __six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)__ wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
+- Using its embedded accelerometer and gyroscope, they have captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. 
 
-__The dataset includes the following files:__
+- The obtained dataset has been __randomly partitioned into two sets__, where __70% of the volunteers__ was selected for generating the __training data__ and __30% the test data__.
+
+***
+#### The dataset includes the following files:
 
 - 'README.txt'
 
@@ -61,17 +65,16 @@ _The following files are available for the train and test data. Their descriptio
 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
-__Notes: __
+***
+
+**Notes:**
 
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
-
-***
-
-__License:__
+**License:**
 
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
