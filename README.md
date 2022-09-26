@@ -1,5 +1,5 @@
 
-## ReadMe : Project work in getting and cleaning data
+## ReadMe : Code for getting and cleaning data
 
 
 ### Background & contents
